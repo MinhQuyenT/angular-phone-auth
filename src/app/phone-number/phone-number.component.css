@@ -1,0 +1,86 @@
+/* .card {
+  border: none;
+  padding: 20px;
+  background-color: #1c1e21;
+  color: #fff
+}
+
+.contain{
+margin: 10rem 0 3rem 0;
+}
+
+.form-input {
+  position: relative;
+  margin-bottom: 10px;
+  margin-top: 10px
+}
+
+.form-control {
+  height: 50px;
+  background-color: #dfe7f3;
+  text-indent: 24px;
+  font-size: 15px
+}
+
+.form-control:focus {
+  background-color: #25272a;
+  box-shadow: none;
+  color: #fff;
+  border-color: #4f63e7
+}
+
+.signup {
+  height: 50px;
+  font-size: 14px
+} */
+
+body {
+  background-color: #040539;
+}
+.container {
+  background-color: #040539;
+}
+
+.card {
+  width: 350px;
+  padding: 10px;
+  border: none;
+  border-radius: 20px;
+}
+
+.form-input input {
+  height: 45px;
+  padding-right: 35px;
+  border: 2px solid #eee;
+  transition: all 0.5s;
+}
+
+.form-input input:focus {
+  box-shadow: none;
+  border: 2px solid #000;
+}
+
+.info-text {
+  font-size: 14px;
+}
+
+.form-input i {
+  position: absolute;
+  top: 14px;
+  right: 10px;
+}
+
+.go-button {
+  border: none;
+  height: 50px;
+  width: 50px;
+  font-size: 29px;
+  color: #fff;
+  background-color: #651fff;
+  border-radius: 50%;
+  transition: all 0.5s;
+}
+
+.go-button:hover {
+  background-color: #6200ea;
+}

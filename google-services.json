@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "780807476413",
+    "firebase_url": "https://phone-auth-f92fb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "phone-auth-f92fb",
+    "storage_bucket": "phone-auth-f92fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780807476413:android:1a13873c8f9a31416653d4",
+        "android_client_info": {
+          "package_name": "MQ.SHC.DB"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780807476413-q8tinbaujgos898d7ahfnq1vu0tue9s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmr0ihA3xys4UdZCApWDFyNF360GDaKlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780807476413-q8tinbaujgos898d7ahfnq1vu0tue9s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
